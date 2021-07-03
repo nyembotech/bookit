@@ -1,8 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## Installation
+    npm run dev
      npx create-next-app .
      npn i next-connect // for making api calls
-     
+     npm i mongoose
+
     
 
 ## Getting Started
